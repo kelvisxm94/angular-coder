@@ -1,0 +1,8 @@
+article{
+    height: calc(100vh - 82px);
+    display: inline-flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 20px;
+    background-color: deepskyblue;
+}

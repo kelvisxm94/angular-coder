@@ -1,0 +1,18 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 20px;
+    background-color: cadetblue;
+    color: #ffffff;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 600;
+}
